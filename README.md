@@ -21,24 +21,7 @@ Este aplicativo é uma plataforma para criar, visualizar, editar e excluir (CRUD
 
 ## EXECUTANDO O PROJETO:
 1. **Conectando o MONGODB:**
-   - Antes de você executar esse APP, você precisa conectar o MONGODB. Para deixar o MongoDB ligado e executando, você pode seguir estas instruções:
-
-   1. **Iniciar o Servidor MongoDB:**
-      - No prompt de comando (Windows) ou no terminal (macOS/Linux), execute o seguinte comando para iniciar o servidor MongoDB:
-      ```
-      mongod
-      ```
-      - Se o MongoDB estiver instalado corretamente e as variáveis de ambiente estiverem configuradas, o servidor será iniciado e estará pronto para aceitar conexões.
-
-   2. **Verificar se o MongoDB está em execução:**
-      - Após iniciar o servidor, você pode verificar se o MongoDB está em execução abrindo outro prompt de comando/terminal e executando o seguinte comando:
-      ```
-      mongo
-      ```
-      - Isso abrirá o shell do MongoDB, que estará conectado ao servidor local por padrão. Se você ver uma mensagem indicando que está conectado ao servidor, então ele está em execução.
-
-   3. **Manter o Terminal Aberto:**
-      - Para manter o MongoDB em execução enquanto você estiver usando sua aplicação Python, é importante manter o terminal aberto onde você iniciou o servidor MongoDB.
+   - Antes de você executar esse APP, você precisa conectar o MONGODB, e o  deixar ligado e em execução.
 
 2. **Configuração do `APP.js`:** 
    - Certifique-se de ter um servidor MongoDB em execução localmente na porta padrão (27017), ou ajuste a URL de conexão de acordo com sua configuração.
