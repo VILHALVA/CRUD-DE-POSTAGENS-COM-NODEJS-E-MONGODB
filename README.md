@@ -63,6 +63,7 @@ Este aplicativo é uma plataforma para criar, visualizar, editar e excluir (CRUD
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE MONGODB](https://github.com/VILHALVA/CURSO-DE-MONGODB)
+* [CURSO DE HANDLEBARS](https://github.com/VILHALVA/CURSO-DE-HANDLEBARS)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
